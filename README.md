@@ -2,6 +2,10 @@
 
 ![image](https://github.com/tony-hsueh/todoList/blob/main/%E6%88%AA%E5%9C%96%202022-05-02%20%E4%B8%8B%E5%8D%8810.11.33.png)
 
+![image](https://github.com/tony-hsueh/todoList/blob/main/%E6%88%AA%E5%9C%96%202022-05-02%20%E4%B8%8B%E5%8D%8810.12.09.png)
+
+若未輸入字就做送出動作,程式會提醒使用者
+![image](https://github.com/tony-hsueh/todoList/blob/main/%E6%88%AA%E5%9C%96%202022-05-02%20%E4%B8%8B%E5%8D%8810.21.54.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
