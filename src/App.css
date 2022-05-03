@@ -2,6 +2,13 @@
   width: 50%;
   margin: 0 auto;
 }
+.sign{
+  font-family: sans-serif;
+  font-weight: 600;
+  position: absolute;
+  bottom: 50px;
+  right: 10%;
+}
 .modal-backdrop.show{
   background-color: rgb(142, 189, 138);
 }

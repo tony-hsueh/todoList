@@ -69,6 +69,7 @@ function App() {
   return (
     <>
       <div className="App">
+        <div className='sign'>made by 薛少康</div>
         <TodoList inputValue={inputValue} setInputValue={setInputValue} setShowList={setShowList} showList={showList}/>
         <Tab finish={finish} setFinish={setFinish}/>
         {!finish&&
